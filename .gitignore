@@ -1,0 +1,8 @@
+.cache
+.cursor
+.pytest_cache
+.venv
+CLAUDE.md
+task.txt
+what_i_did.txt
+**/__pycache__
